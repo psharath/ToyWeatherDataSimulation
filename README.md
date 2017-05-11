@@ -5,9 +5,9 @@ This is a toy weather simulator for game, which actually works by creating a mod
 
 This application requires below  
 
- Java:
+    Java:
  
-     It needs Java 1.7 and uses below Java packages.
+   It needs Java 1.7 and uses below Java packages.
      
 •	JSON ( for read the data from Rest API )
 
@@ -15,7 +15,7 @@ This application requires below
 
 •	Wunderground RestAPI ( to download weather data from wunderground )
 
-Hadoop:
+    Hadoop:
 
 It needs Hadoop 2.x and Hive 2.x
 
