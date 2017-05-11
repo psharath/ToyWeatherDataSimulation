@@ -16,7 +16,7 @@
 
 LOCALFILEPATH=/user/home/weatherdata.txt
 HDFSFILEPATH=/tmp/work/weatherdata
-HQLPATH=/LAND/ToYWEATHER
+HQLPATH=/LAND/TOYWEATHER
 
 #Moving file from local to hdfs
 
