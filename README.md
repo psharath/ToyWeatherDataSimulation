@@ -4,11 +4,18 @@ This is a toy weather simulator for game, which actually works by creating a mod
 # Requirements
 
 This application requires below  
+
  Java:
+ 
      It needs Java 1.7 and uses below Java packages.
+     
 •	JSON ( for read the data from Rest API )
+
 •	FileWriter ,BufferReader( for writing generated data into local file )
+
 •	Wunderground RestAPI ( to download weather data from wunderground )
+
 Hadoop:
+
 It needs Hadoop 2.x and Hive 2.x
 
